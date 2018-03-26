@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_data",
+    "\\_layouts"
   ],
+  "SelectedNode": "\\_data\\skills.yml",
   "PreviewInSolutionExplorer": false
 }
