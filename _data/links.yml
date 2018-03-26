@@ -1,5 +1,7 @@
 # links
-- url: "#"
-  description: Springfield Poker Club
-- url: "#"
-  description: Springfield Donut Eater's User Group
+- url: "https://github.com/Geeksltd/Olive.MvcTemplate"
+  description: "This project is a .NET Core MVC template for M# projects."
+- url: "https://github.com/Geeksltd/Olive.MvcJs"
+  description: "M# UI project"
+- url: "https://github.com/Geeksltd/MSharp.Docs"
+  description: "M# Documentation"
